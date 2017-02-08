@@ -2,7 +2,7 @@ github上第一个小项目，也不知道该怎么做好。本着大无畏精�
 
 第一题：在头像（QQ、微信）右上角加上红色的数字，类似于微信未读信息数量那种提示效果。 
 下面是示例
-！[image]（https://github.com/zhangslob/Image/image.jpg ）
+！[]（https://github.com/zhangslob/Image/image.jpg ）
 
 以及目标图
-！[image]（https://github.com/zhangslob/Image/result.jpg）
+！[]（https://github.com/zhangslob/Image/result.jpg）
