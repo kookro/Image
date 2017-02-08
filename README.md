@@ -4,3 +4,4 @@ github上第一个小项目，也不知道该怎么做好。本着大无畏精�
 下面是示例
 Image/screenshot/image.jpg
 以及目标图
+Image/screenshot/result.jpg
