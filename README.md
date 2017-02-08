@@ -5,4 +5,5 @@ github上第一个小项目，也不知道该怎么做好。本着大无畏精�
 ![](https://github.com/zhangslob/Image/blob/master/image.jpg?raw=true)
 
 然后目标是在图像上加入数字
+
 ![](https://github.com/zhangslob/Image/blob/master/result.jpg?raw=true)
